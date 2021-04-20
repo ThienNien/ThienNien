@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://wanna-joke.com/wp-content/uploads/2016/07/gif-life-coder.gif" align="center" style="width: 100%" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3895488/writer.gif" align="center" style="width: 100%" />
 </div>  
   
 
